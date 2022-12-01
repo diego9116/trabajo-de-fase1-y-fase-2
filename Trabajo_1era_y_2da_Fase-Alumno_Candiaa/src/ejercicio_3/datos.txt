@@ -1,0 +1,12 @@
+BAD-128
+Kia
+4.2
+Sorento
+CGI-001
+Toyota
+5.3
+Fortuner
+KFC-666
+Seat
+30.0
+Leon
